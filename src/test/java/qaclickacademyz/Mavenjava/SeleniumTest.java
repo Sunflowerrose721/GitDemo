@@ -21,7 +21,10 @@ public class SeleniumTest {
      public void twinklingStar() {
     	 System.out.println("twinklingStar");
      }
-    
+     @Test
+     public void elementsUissi() {
+    	 System.out.println("elementsdsUi");
+     }
      
 	}
 
