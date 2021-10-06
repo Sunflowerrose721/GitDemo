@@ -18,4 +18,7 @@ public void postJira() {
 public void deleteTwitter() {
 	System.out.println("deleteTwitter");
 }
+public void deleteTwitter123() {
+	System.out.println("deleteTwitter");
+}
 }
